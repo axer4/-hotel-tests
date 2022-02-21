@@ -1,0 +1,196 @@
+{
+  "register": {
+    "email": "",
+    "password": "",
+    "name": "",
+    "surname": "",
+    "fatherName": "",
+    "balance": ""
+  },
+  "login": {},
+  "users": [
+    {
+      "email": "example@gmail.com",
+      "password": "$2a$10$Xjmddl56dLgFr1XNQl/XB.nWg8vCkShBJ7Ez8UfwvvRykE9UjlXLq",
+      "name": "bla",
+      "surname": "bla",
+      "fatherName": "bla ",
+      "balance": "20000",
+      "id": 1
+    }
+  ],
+  "hotels": [
+    {
+      "name": "Passage",
+      "description": "Супер отель, проффесиональные сотрудники, лучшие цены в городе!!",
+      "id": "1",
+      "rooms": [
+        {
+          "number": "203",
+          "type": "Одноместный стандарт",
+          "price": 500,
+          "isBussy": false
+        },
+        {
+          "number": "200",
+          "type": "Одноместный стандарт",
+          "price": 500,
+          "isBussy": true
+        },
+        {
+          "number": "56",
+          "type": "Двухместный стандарт",
+          "price": 800,
+          "isBussy": false
+        },
+        {
+          "number": "41",
+          "type": "Трёхместный стандарт",
+          "price": 1000,
+          "isBussy": false
+        },
+        {
+          "number": "1",
+          "type": "Люкс",
+          "price": 1500,
+          "isBussy": false
+        },
+        {
+          "number": "2",
+          "type": "Двухместный президентский люкс",
+          "price": 3000,
+          "isBussy": false
+        }
+      ]
+    },
+    {
+      "name": "Wall Street",
+      "description": "Супер отель, рядом крутой бизнес-центр,казино в отеле, бесплатные завтраки!!",
+      "id": "2",
+      "rooms": [
+        {
+          "number": "4",
+          "type": "Одноместный стандарт",
+          "price": 750,
+          "isBussy": false
+        },
+        {
+          "number": "26",
+          "type": "Одноместный стандарт",
+          "price": 750,
+          "isBussy": true
+        },
+        {
+          "number": "56",
+          "type": "Двухместный стандарт",
+          "price": 800,
+          "isBussy": false
+        },
+        {
+          "number": "41",
+          "type": "Трёхместный стандарт",
+          "price": 1000,
+          "isBussy": false
+        },
+        {
+          "number": "1",
+          "type": "Люкс",
+          "price": 1500,
+          "isBussy": false
+        },
+        {
+          "number": "2",
+          "type": "Двухместный президентский люкс",
+          "price": 3000,
+          "isBussy": false
+        }
+      ]
+    },
+    {
+      "name": "Amsterdam Hotel",
+      "description": "Отель в самом центре Одессы.Приятные хостес и цены, бра на первом этаже",
+      "id": "3",
+      "rooms": [
+        {
+          "number": "4",
+          "type": "Одноместный стандарт",
+          "price": 1000,
+          "isBussy": false
+        },
+        {
+          "number": "26",
+          "type": "Одноместный стандарт",
+          "price": 1000,
+          "isBussy": true
+        },
+        {
+          "number": "56",
+          "type": "Двухместный стандарт",
+          "price": 3000,
+          "isBussy": false
+        },
+        {
+          "number": "41",
+          "type": "Трёхместный стандарт",
+          "price": 4000,
+          "isBussy": false
+        },
+        {
+          "number": "1",
+          "type": "Люкс",
+          "price": 5000,
+          "isBussy": false
+        },
+        {
+          "number": "2",
+          "type": "Двухместный президентский люкс",
+          "price": 6000,
+          "isBussy": false
+        }
+      ]
+    },
+    {
+      "name": "Nemo",
+      "description": "Отель у моря,на первом этажу дельфинарий,ресторан на крыше,для любителей красок моря",
+      "id": "4",
+      "rooms": [
+        {
+          "number": "4",
+          "type": "Одноместный стандарт",
+          "price": 1000,
+          "isBussy": true
+        },
+        {
+          "number": "26",
+          "type": "Одноместный стандарт",
+          "price": 1000,
+          "isBussy": true
+        },
+        {
+          "number": "56",
+          "type": "Двухместный стандарт",
+          "price": 1800,
+          "isBussy": false
+        },
+        {
+          "number": "41",
+          "type": "Трёхместный стандарт",
+          "price": 3500,
+          "isBussy": true
+        },
+        {
+          "number": "1",
+          "type": "Люкс",
+          "price": 5000,
+          "isBussy": true
+        },
+        {
+          "number": "2",
+          "type": "Двухместный президентский люкс",
+          "price": 8000,
+          "isBussy": false
+        }
+      ]
+    }
+  ]
+}
