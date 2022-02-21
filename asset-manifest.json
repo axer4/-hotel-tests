@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.css": "/-hotels-tests/static/css/main.31d6cfe0.css",
+    "main.js": "/-hotels-tests/static/js/main.2aed4731.js",
+    "index.html": "/-hotels-tests/index.html",
+    "main.2aed4731.js.map": "/-hotels-tests/static/js/main.2aed4731.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.2aed4731.js"
+  ]
+}
